@@ -6,3 +6,6 @@ console.log("Suma: " + suma);
 
 let resta = num1 - num2;
 console.log("Resta: " +resta);
+
+let multiplicacion = num1 * num2;
+console.log("Multiplicacion: " +multiplicacion);
