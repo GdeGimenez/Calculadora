@@ -9,3 +9,10 @@ console.log("Resta: " +resta);
 
 let multiplicacion = num1 * num2;
 console.log("Multiplicacion: " +multiplicacion);
+
+if (num2 == 0){
+    console.log("Error");
+}else{
+    let division = num1 / num2;
+    console.log("Division: " +division);
+}
